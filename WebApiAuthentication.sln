@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiAuthentication", "WebApiAuthentication\WebApiAuthentication.csproj", "{49BB6301-772C-4448-A953-DD754168E5FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiAuthentication.Client", "WebApiAuthentication.Client\WebApiAuthentication.Client.csproj", "{3000FBC7-2AAB-4A8F-875E-A83BC8B58561}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49BB6301-772C-4448-A953-DD754168E5FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49BB6301-772C-4448-A953-DD754168E5FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49BB6301-772C-4448-A953-DD754168E5FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49BB6301-772C-4448-A953-DD754168E5FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3000FBC7-2AAB-4A8F-875E-A83BC8B58561}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3000FBC7-2AAB-4A8F-875E-A83BC8B58561}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3000FBC7-2AAB-4A8F-875E-A83BC8B58561}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3000FBC7-2AAB-4A8F-875E-A83BC8B58561}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

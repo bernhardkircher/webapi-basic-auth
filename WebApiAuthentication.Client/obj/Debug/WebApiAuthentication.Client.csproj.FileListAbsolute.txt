@@ -1,0 +1,6 @@
+c:\users\bernhard\documents\visual studio 2015\Projects\WebApiAuthentication\WebApiAuthentication.Client\bin\Debug\WebApiAuthentication.Client.exe.config
+c:\users\bernhard\documents\visual studio 2015\Projects\WebApiAuthentication\WebApiAuthentication.Client\bin\Debug\WebApiAuthentication.Client.exe
+c:\users\bernhard\documents\visual studio 2015\Projects\WebApiAuthentication\WebApiAuthentication.Client\bin\Debug\WebApiAuthentication.Client.pdb
+c:\users\bernhard\documents\visual studio 2015\Projects\WebApiAuthentication\WebApiAuthentication.Client\obj\Debug\WebApiAuthentication.Client.csprojResolveAssemblyReference.cache
+c:\users\bernhard\documents\visual studio 2015\Projects\WebApiAuthentication\WebApiAuthentication.Client\obj\Debug\WebApiAuthentication.Client.exe
+c:\users\bernhard\documents\visual studio 2015\Projects\WebApiAuthentication\WebApiAuthentication.Client\obj\Debug\WebApiAuthentication.Client.pdb
